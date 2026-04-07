@@ -1,0 +1,4 @@
+name: pyroscope
+namespace: monitoring
+type: helm
+wave: '3'

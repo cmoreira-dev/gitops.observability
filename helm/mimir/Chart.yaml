@@ -1,0 +1,10 @@
+apiVersion: v2
+name: mimir-wrapper
+description: Wrapper chart to install mimir-distributed via Helm
+type: application
+version: 0.1.0
+
+dependencies:
+  - name: mimir-distributed
+    version: "6.1.0-weekly.388"
+    repository: https://grafana.github.io/helm-charts

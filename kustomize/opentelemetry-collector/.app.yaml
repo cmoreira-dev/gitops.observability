@@ -1,0 +1,4 @@
+name: opentelemetry-collector
+namespace: monitoring
+type: kustomize
+wave: '4'

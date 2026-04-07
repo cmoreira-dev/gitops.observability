@@ -1,0 +1,4 @@
+name: opentelemetry-operator
+namespace: monitoring
+type: helm
+wave: '2'

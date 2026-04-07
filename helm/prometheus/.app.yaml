@@ -1,0 +1,4 @@
+name: prometheus
+namespace: monitoring
+type: helm
+wave: '3'

@@ -1,0 +1,10 @@
+apiVersion: v2
+name: opentelemetry-operator-wrapper
+description: Wrapper chart to install opentelemetry-operator via Helm
+type: application
+version: 0.1.0
+
+dependencies:
+  - name: opentelemetry-operator
+    version: "0.109.0"
+    repository: https://open-telemetry.github.io/opentelemetry-helm-charts
