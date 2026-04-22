@@ -1,4 +1,0 @@
-name: opentelemetry-operator
-namespace: otel-operator
-type: helm
-wave: '2'
