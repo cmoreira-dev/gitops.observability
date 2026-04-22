@@ -11,7 +11,7 @@ spec:
     path: helm/tempo
   destination:
     server: https://kubernetes.default.svc
-    namespace: argocd
+    namespace: tempo
   syncPolicy:
     automated:
       prune: true

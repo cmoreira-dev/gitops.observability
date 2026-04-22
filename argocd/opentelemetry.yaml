@@ -11,7 +11,7 @@ spec:
     path: helm/opentelemetry-operator
   destination:
     server: https://kubernetes.default.svc
-    namespace: argocd
+    namespace: otel-operator
   syncPolicy:
     automated:
       prune: true
