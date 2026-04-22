@@ -1,4 +1,4 @@
 name: mimir
-namespace: monitoring
+namespace: mimir
 type: helm
 wave: '3'

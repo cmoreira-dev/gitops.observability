@@ -1,4 +1,4 @@
 name: opentelemetry-collector
-namespace: monitoring
+namespace: otel-collector
 type: kustomize
 wave: '4'
